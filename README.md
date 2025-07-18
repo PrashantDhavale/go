@@ -1,2 +1,3 @@
 # My go practice files
-Test
+
+go mod init main
